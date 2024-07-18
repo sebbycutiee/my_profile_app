@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../pharmacy_website"
+		},
+		{
+			"path": "../xampp/htdocs/plant_catalog"
+		},
+		{
+			"path": "../xampp/htdocs/nba"
+		},
+		{
+			"path": "../xampp/htdocs/pharmacy"
+		},
+		{
+			"path": "../pharmacy_app"
+		},
+		{
+			"path": "../java"
+		}
+	],
+	"settings": {}
+}
